@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{607972A0-C07A-4A5F-8023-FED276C007D1}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.crudWEBAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="crudWEBAPI/Controllers/SuperHeroController.cs">
+    <Files>
+      <File FileName="crudWEBAPI/Program.cs" Line="12" Column="42" />
+      <File FileName="crudWEBAPI/WeatherForecast.cs" />
+      <File FileName="crudWEBAPI/Controllers/WeatherForecastController.cs" />
+      <File FileName="crudWEBAPI/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="crudWEBAPI/superHero.cs" Line="5" Column="3" />
+      <File FileName="crudWEBAPI/Controllers/SuperHeroController.cs" Line="31" Column="18" />
+      <File FileName="crudWEBAPI/appsettings.json" Line="14" Column="1" />
+      <File FileName="crudWEBAPI/Data/DataContext.cs" Line="11" Column="3" />
+      <File FileName="crudWEBAPI/Migrations/DataContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="crudWEBAPI/Migrations/20230425095330_CreateInitial.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="crudWEBAPI" expanded="True">
+            <Node name="crudWEBAPI" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="SuperHeroController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
